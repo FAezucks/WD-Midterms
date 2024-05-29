@@ -1,12 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width-device-width, initial-scale=1.0">
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="assets/css/style.css">
+  <title>Mid</title>
+
+
 </head>
 <body>
-  <p>hatdog</p>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url("https://media.gettyimages.com/id/1181316998/photo/fresh-bread-on-wooden-table-top-view-with-space-for-your-text.jpg?s=612x612&w=0&k=20&c=oUMaot58-pQskcrjNtNKqkjdz2RSZVlZY32LFS0GJ1o=");
+      color: black;
+      text-align: center;
+      padding: 20px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+    }
+    </style>
+
+
+  <p>Logo</p>
 </body>
 </html>
+
+
+
